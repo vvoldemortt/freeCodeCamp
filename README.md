@@ -73,7 +73,6 @@ Here are our six core certifications:
 - [Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
 - [React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
   <br />
-  <br />
   **Projects**: Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator, Pomodoro Clock
 
 #### 4. Data Visualization Certification
@@ -115,9 +114,7 @@ We also have 3 legacy certifications from our 2015 curriculum, which are still a
 - Legacy Back End Development Certification
 
 ### The Learning Platform
-
 This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
-
 Our community also has:
 
 - A [forum](https://www.freecodecamp.org/forum) where you can usually get programming help or project feedback within hours.
